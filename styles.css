@@ -1,0 +1,32 @@
+body {
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+#dialogue {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+  font-weight: 500;
+  padding: 13px;
+  font-size: 17px;
+}
+#navbar {
+  padding-right: 30px;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#links {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: center;
+}
+#navbar li {
+  list-style: none;
+  padding: 0 10px;
+}
